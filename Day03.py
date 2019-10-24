@@ -144,8 +144,18 @@ liczba = 1.234
 
 # ==============
 
-print("Start")t
-zapytaj_ponownie = "T"
-while zapytaj_ponownie == "T":
-    zapytaj_ponownie = input("Czy zapytać ponownie? [T/N] ")
-print ("Koniec")
+# print("Start")t
+# zapytaj_ponownie = "T"
+# while zapytaj_ponownie == "T":
+#     zapytaj_ponownie = input("Czy zapytać ponownie? [T/N] ")
+# print ("Koniec")
+
+
+# ==============
+
+for przedmiot in zakupy:
+        if przedmiot == 'piwko':
+            znak - '[x] '
+        else:
+            znak - '[ ] '
+        print(znak +przedmiot)
