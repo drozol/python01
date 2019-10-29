@@ -1,4 +1,4 @@
-# Napisz program do przeliczania liczby zapisanej w formacie binarnym na system dziesiętny.
+# 4. Napisz program do przeliczania liczby zapisanej w formacie binarnym na system dziesiętny.
 podana_liczba =  input ("Podaj liczbę binarna: ")
 dlugosc_liczby=len(podana_liczba)
 # print(dlugosc_liczby)
