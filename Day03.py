@@ -107,7 +107,7 @@ liczba = 1.234
 
 # ==============
 
-# iczby_parzyste = range (0,20,2)
+# liczby_parzyste = range (0,20,2)
 # lista_liczb_parzystych = list (range(0,20,2))
 # print(lista_liczb_parzystych)
 
